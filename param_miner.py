@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 ╔══════════════════════════════════════════════════════════════╗
-║          PARAMETER MINER PRO  —  by Z33                      ║
-║       github.com/yourhandle/param-miner-pro                  ║
+║          PARAMETER MINER PRO  —  by 0xZ33                    ║
+║       github.com/Zeeshanafridai/param-miner-pro              ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
