@@ -146,22 +146,5 @@ __proto__          Prototype pollution → RCE in some stacks
 /api/v1 (old)      Older API with missing auth checks
 ```
 
----
-
-## GitHub Info
-
-**Description:**
-```
-Hidden parameter discovery — query params, headers, JSON keys, paths, prototype pollution, mass assignment. Beats Arjun.
-```
-
-**Topics:**
-```
-parameter-mining, hidden-params, cache-poisoning, prototype-pollution,
-mass-assignment, header-injection, bug-bounty, web-security, python, appsec
-```
-
----
-
 ## License
 MIT — For authorized testing only.
