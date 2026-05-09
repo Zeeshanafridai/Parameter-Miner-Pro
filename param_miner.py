@@ -2,7 +2,7 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
 ║          PARAMETER MINER PRO  —  by 0xZ33                    ║
-║       github.com/Zeeshanafridai/param-miner-pro              ║
+║       github.com/Zeeshanafridai/parameter-miner-pro              ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
