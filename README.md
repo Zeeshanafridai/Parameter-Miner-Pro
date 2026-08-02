@@ -27,8 +27,8 @@ Zero dependencies. Pure Python.
 ## Installation
 
 ```bash
-git clone https://github.com/yourhandle/param-miner-pro
-cd param-miner-pro
+git clone https://github.com/zeeshanafridai/parameter-miner-pro
+cd parameter-miner-pro
 python3 param_miner.py --help
 ```
 
